@@ -1,3 +1,6 @@
 [submodule "themes/dream"]
 	path = themes/dream
 	url = https://github.com/g1eny0ung/hugo-theme-dream.git
+[submodule "public"]
+	path = public
+	url = https://github.com/eric88142/eric88142.github.io.git
